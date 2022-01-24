@@ -217,3 +217,8 @@ hr {
 #times h2 {
     color: #fafafa;
 }
+
+footer li {
+    text-align: center;
+    padding: 10px;
+}
